@@ -28,12 +28,8 @@ Objetivos particulares:
 •	Crear un programa que permita obtener el ritmo cardiaco.
 
 •	Diseñar una interfaz gráfica para el despliegue de información al usuario en tiempo real.
-
 •	Construir un bloque de adquisición de información a través de una cámara externa.
-
 •	Implementar de un programa de reconocimiento de patrones a través de la cámara.
-
 •	Crear un programa que permita desplegar la información de los sensores sobre las imágenes captadas por la cámara (Realidad Aumentada).
-
 •	Diseñar una interfaz gráfica para el despliegue de información con la Realidad Aumentada.
 
