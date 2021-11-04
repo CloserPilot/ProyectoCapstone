@@ -7,8 +7,10 @@ Alejandro Salinas Victorino
 Mariana Ramírez Sánchez
 Mario Alejandro Pavón Heredia
 
-Resumen: XXXX
+Resumen:
+
 Objetivo general: Diseñar un fonocardiograma y un sensor de temperatura corporal cuyos datos puedan ser desplegables con realidad aumentada
+
 Objetivos particulares:
 •	Diseñar e implementar la electrónica necesaria para las fuentes de alimentación del prototipo (sensores y microcontrolador).
 •	Diseñar e implementar los circuitos de acondicionamiento de señal para el sensor de temperatura y el fonocardiograma. 
