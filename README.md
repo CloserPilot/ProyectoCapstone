@@ -1,6 +1,6 @@
 # ProyectoCapstone
 
-Nombre: Sistema de monitoreo de sonidos cardiacos y temperatura con realidad aumentada.
+Nombre: Sistema de monitoreo de sonidos cardiacos con realidad aumentada.
 
 Participantes:
 Alejandro Salinas Victorino
